@@ -1,6 +1,7 @@
 '''
 PwnXSS - 2019/2020
 This project was created by Andripwn with Pwn0sec team. 
+Mod by Trhacknon
 Copyright under the MIT license
 '''
 import argparse
@@ -10,7 +11,7 @@ from lib.core import *
 from random import randint
 from lib.crawler.crawler import *
 epilog="""
-Github: https://www.github.com/pwn0sec/PwnXSS
+Github: https://www.github.com/trhacknon/PwnXSS
 Version: 0.5 Final
 """
 def check(getopt):
@@ -62,7 +63,7 @@ def start():
 Project: PwnXSS
 License: MIT
 Author: Security Executions Code
-Last updates: 2019 may 26
+Last updates: 2022 may 16
 Note: Take your own RISK
 ****************
 """+epilog)
