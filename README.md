@@ -22,7 +22,7 @@ pip install requests
 Commands:
 
 ```bash
-git clone https://github.com/pwn0sec/PwnXSS
+git clone https://github.com/trhacknon/PwnXSS
 chmod 755 -R PwnXSS
 cd PwnXSS
 python3 pwnxss.py --help 
